@@ -15,13 +15,4 @@ A full‑stack weather app built with Spring Boot (Java) and plain HTML/CSS/Java
 - **API**: OpenWeatherMap (5-day/3-hour forecast) :contentReference[oaicite:4]{index=4}
 - **API Docs**: Swagger UI (`/swagger-ui.html`) :contentReference[oaicite:5]{index=5}
 
-##Project Structure
-weather-api-webpage/
-├── backend/           # Spring Boot project
-│   ├── src/…          # Controllers, services, security, config
-│   └── application.properties
-└── frontend/          # Static site
-    ├── index.html
-    ├── style.css
-    └── script.js
 
