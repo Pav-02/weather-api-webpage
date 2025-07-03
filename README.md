@@ -15,4 +15,10 @@ A full‑stack weather app built with Spring Boot (Java) and plain HTML/CSS/Java
 - **API**: OpenWeatherMap (5-day/3-hour forecast) :contentReference[oaicite:4]{index=4}
 - **API Docs**: Swagger UI (`/swagger-ui.html`) :contentReference[oaicite:5]{index=5}
 
+## Installation
+1. Clone this repository
+2. Open index.html in your browser
+3. Enter a city name and click "Get Weather" or press Enter
+   OUTPUT:
+
 
