@@ -1,3 +1,11 @@
+API INTEGRATION:
+Company - CodTech IT Solutions
+Name   - N.C.Pavani
+Intern ID - CT06DF2606
+Domain - Full Stack
+Duration - 6 weeks
+Mentor - Neela Santhosh
+
 #  Weather API Webpage
 
 A full‑stack weather app built with Spring Boot (Java) and plain HTML/CSS/JavaScript. Fetches and displays hourly or summary forecasts from OpenWeatherMap via a backend API :contentReference[oaicite:1]{index=1}.
