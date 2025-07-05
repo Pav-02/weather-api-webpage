@@ -1,9 +1,9 @@
                                                                 API INTEGRATION 
-Company - CodTech IT Solutions
-Name   - N.C.Pavani
-Intern ID - CT06DF2606
-Domain - Full Stack
-Duration - 6 weeks
+Company - CodTech IT Solutions,
+Name   - N.C.Pavani,
+Intern ID - CT06DF2606,
+Domain - Full Stack,
+Duration - 6 weeks,
 Mentor - Neela Santhosh
 
 #  Weather API Webpage
@@ -27,7 +27,7 @@ A full‑stack weather app built with Spring Boot (Java) and plain HTML/CSS/Java
 1. Clone this repository
 2. Open index.html in your browser
 3. Enter a city name and click "Get Weather" or press Enter
-   OUTPUT:
+   
    ![image](https://github.com/user-attachments/assets/50e24fcc-3f6a-4f38-b2d0-8a17719ece17)
 
 
