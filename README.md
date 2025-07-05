@@ -1,4 +1,4 @@
-API INTEGRATION :
+                                                                API INTEGRATION 
 Company - CodTech IT Solutions
 Name   - N.C.Pavani
 Intern ID - CT06DF2606
@@ -8,7 +8,7 @@ Mentor - Neela Santhosh
 
 #  Weather API Webpage
 
-A full‑stack weather app built with Spring Boot (Java) and plain HTML/CSS/JavaScript. Fetches and displays hourly or summary forecasts from OpenWeatherMap via a backend API :contentReference[oaicite:1]{index=1}.
+A full‑stack weather app built with Spring Boot (Java) and plain HTML/CSS/JavaScript. Fetches and displays hourly or summary forecasts from OpenWeatherMap via a backend API 
 
 ## Features
 - Search weather by **city name**
@@ -28,5 +28,7 @@ A full‑stack weather app built with Spring Boot (Java) and plain HTML/CSS/Java
 2. Open index.html in your browser
 3. Enter a city name and click "Get Weather" or press Enter
    OUTPUT:
+   ![image](https://github.com/user-attachments/assets/50e24fcc-3f6a-4f38-b2d0-8a17719ece17)
+
 
 
